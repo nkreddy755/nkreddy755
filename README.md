@@ -3,8 +3,13 @@
 
 # 💫 About Me:
 <img align="right" width=150px src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alter="Coding">
-👋 Hi, I’m Karthik Reddy<br>🤩 I’m interested in Learning | web development | Programming<br>🤝 I’m looking to collaborate on web development<br>🔗 How to reach me https://linktr.ee/nkreddy755<br>🖱️Checkout my website https://nkreddy755.github.io/nkpersonalsite
-<img align="center" width=50px alter="Banner" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+👋 Hi, I’m Karthik Reddy<br>🤩 I’m interested in Learning | web development | Programming<br>🤝 I’m looking to collaborate on web development<br>
+
+<img align="center" width=25px alter="tag animation" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+
+
+🔗 How to reach me https://linktr.ee/nkreddy755<br>🖱️Checkout my website https://nkreddy755.github.io/nkpersonalsite
+
 
 
 
