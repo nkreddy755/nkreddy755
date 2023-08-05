@@ -1,3 +1,6 @@
+<img align="center" alter="Banner" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
+
 # 💫 About Me:
 <img align="right" width=250px src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alter="Coding">
 <span >👋 Hi, I’m Karthik Reddy<br>🤩 I’m interested in Learning | web development | Programming<br>🤝 I’m looking to collaborate on web development<br>🔗 How to reach me https://linktr.ee/nkreddy755<br>🖱️Checkout my website https://nkreddy755.github.io/nkpersonalsite</span>
