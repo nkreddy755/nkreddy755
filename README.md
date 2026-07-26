@@ -40,7 +40,6 @@ I build production AI systems: RAG pipelines, LLM fine-tuning, and multi-agent w
 ---
 
 ### GitHub Stats
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkreddy755&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nkreddy755&layout=compact&theme=tokyonight&hide_border=true)
 
 ### ✍️ Random Dev Quote
